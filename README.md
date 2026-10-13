@@ -70,7 +70,11 @@ I believe great software combines thoughtful architecture, reliable engineering,
 
 ## 🤝 Let's Connect
 
-Interested in software development, open source, infrastructure, or building something useful? Feel free to explore my repositories and connect.
+Interested in software development, open-source projects, infrastructure engineering, or building impactful solutions? Explore my repositories to discover my work, and feel free to connect for collaboration, technical discussions, or new opportunities.
+
+**Contact Me**
+- **Email:** para77710@gmail.com
+- **Business Inquiries:** para@ryzencloud.in
 
 ---
 
