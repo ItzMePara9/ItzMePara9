@@ -18,11 +18,6 @@ I enjoy turning ideas into real-world software — from designing intuitive user
 - 🛠️ Interested in Linux, server management, cloud infrastructure, and developer tooling.
 - 📦 Exploring open-source development and building practical projects.
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ItzMePara9&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-</p>
 
 ## 🧠 Tech Stack
 
