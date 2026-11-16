@@ -21,7 +21,7 @@ I enjoy turning ideas into real-world software — from designing intuitive user
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ItzMePara9&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ItzMePara9&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge&abbreviated=true" alt="Profile Views" />
 </p>
 
 ## 🧠 Tech Stack
